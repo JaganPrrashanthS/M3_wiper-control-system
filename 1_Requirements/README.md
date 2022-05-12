@@ -15,8 +15,11 @@ STM32F407VG
 FEATURES OF STM32F407VG MICROCONTROLLER
 
 •	Up to 1 Mbyte of Flash memory.
+
 •	Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+
 •	512 bytes of OTP memory.
+
 •	Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
 
 WORKING PRINCIPLE
@@ -51,29 +54,41 @@ SWOT ANALYSIS
 STRENGTH
 
 •	Low Budget
+
 •	Good Reputation
+
 •	High Bargaining Power Suppliers
+
 •	Big Influence on the Market
 
 WEAKNESS
 
 •	Structural Inertia
+
 •	High Transaction Cost
+
 •	No Focus on Private Sector
+
 •	Week Focus on Process Innovations
 
 OPPORTUNITIES
 
 •	Emerging New Markets
+
 •	Technological Development
+
 •	Demand for Saver Equipments
+
 •	Technological Lock in of Product
 
 THREATS
 
 •	Low Bargaining Power Buyers
+
 •	Highly Regulated Industry
+
 •	Ethical Pressure
+
 •	Economical Crisis
 
 
